@@ -8,16 +8,6 @@ Atuo na interseção entre Direito e Programação, com o objetivo de analisar d
 
 ---
 
-👨‍💻 Thiago Vinicius de Paula
-
-Desenvolvedor em formação, com sólida base em Direito e foco na aplicação da tecnologia para resolver problemas reais.
-
-Bacharel em Direito pela UNIARA, com pós-graduação em Processo Civil Empresarial pela Faculdade de Direito de Franca, e atualmente no último semestre de Análise e Desenvolvimento de Sistemas pela FATEC.
-
-Atuo na interseção entre Direito e Programação, com o objetivo de analisar dados, automatizar processos e desenvolver soluções que apoiem a tomada de decisões de forma estratégica e eficiente.
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
