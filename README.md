@@ -1,8 +1,10 @@
-Thiago Vinicius de Paula
+👨‍💻 Thiago Vinicius de Paula
 
-**`Desenvolvedor`**
+Desenvolvedor em formação, com sólida base em Direito e foco na aplicação da tecnologia para resolver problemas reais.
 
-Advogado, bacharel em direito pela UNIARA, pós-graduado em Processo Civil Empresarial pela Faculdade de Direito de Franca, atualmente cursando o último semestre de Análise e Desenvolvimento de Sistemas na FATEC Taquaritinga-SP.
+Bacharel em Direito pela UNIARA, com pós-graduação em Processo Civil Empresarial pela Faculdade de Direito de Franca, e atualmente no último semestre de Análise e Desenvolvimento de Sistemas pela FATEC.
+
+Atuo na interseção entre Direito e Programação, com o objetivo de analisar dados, automatizar processos e desenvolver soluções que apoiem a tomada de decisões de forma estratégica e eficiente.
 
 ---
 
@@ -52,22 +54,5 @@ Advogado, bacharel em direito pela UNIARA, pós-graduado em Processo Civil Empre
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Thiagoviniciusdepaula&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoviniciusdepaula&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
 </p>
