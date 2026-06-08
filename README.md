@@ -1,6 +1,6 @@
 👨‍💻 Thiago Vinicius de Paula
 
-Desenvolvedor em formação, com sólida base em Direito e foco na aplicação da tecnologia para resolver problemas reais. Bacharel em Direito pela UNIARA, com pós-graduação em Processo Civil Empresarial pela Faculdade de Direito de Franca, e atualmente no último semestre de Análise e Desenvolvimento de Sistemas pela FATEC. Atuo na interseção entre Direito e Programação, com o objetivo de analisar dados, automatizar processos e desenvolver soluções que apoiem a tomada de decisões de forma estratégica e eficiente.
+Advogado e graduando em Análise e Desenvolvimento de Sistemas pela FATEC, com interesse em Compliance, Governança, Gestão de Riscos, Proteção de Dados e Tecnologia da Informação. Possuo experiência em análise documental, elaboração de relatórios, pesquisa jurídica e gestão de informações, aliada a conhecimentos em metodologias ágeis (Scrum), Pacote Office e fundamentos de tecnologia e segurança da informação. Busco aplicar uma visão multidisciplinar, unindo Direito e Tecnologia para apoiar processos de conformidade, governança e mitigação de riscos.e eficiente.
 
 🤖 Linguagens e Tecnologias
 
